@@ -1,0 +1,11 @@
+[package]
+name = "Enums_pattern_matching"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+
+
+[[bin]]
+name="match_control"
+path="src/match_control.rs"
