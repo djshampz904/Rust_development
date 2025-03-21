@@ -11,6 +11,10 @@ fn main() {
 
     println!("y: {y:?}, x: {x:?} z: {z:?}");
 
+    let config_max = Some(3u8);
+    if let Some(max) = config_max {
+        pritinln!("The maximum is configured to be {max}")
+
 }
 
 #[derive(Debug)]
