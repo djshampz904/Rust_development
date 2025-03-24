@@ -1,0 +1,1 @@
+/home/shvmpz/Solana_voting_dapp/Rust_development/command_line/target/debug/command_line: /home/shvmpz/Solana_voting_dapp/Rust_development/command_line/src/lib.rs /home/shvmpz/Solana_voting_dapp/Rust_development/command_line/src/main.rs
