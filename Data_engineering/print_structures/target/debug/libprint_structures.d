@@ -1,0 +1,1 @@
+/home/shvmpz/Solana_voting_dapp/Rust_development/Data_engineering/print_structures/target/debug/libprint_structures.rlib: /home/shvmpz/Solana_voting_dapp/Rust_development/Data_engineering/print_structures/src/lib.rs
