@@ -1,5 +1,8 @@
 use clap::Parser;
-use print_structures::create_fruit_salad;
+use print_structures::{
+    create_fruit_salad,
+    init_languages,
+};
 
 
 #[derive(Parser)]
@@ -17,10 +20,15 @@ struct Opts {
 
 fn main() {
 
-    let opts: Opts = Opts::parse();
-    let salad = create_fruit_salad(opts.number);
-    println!("Fruit salad: {:?}", salad);
+    // let opts: Opts = Opts::parse();
+    // let salad = create_fruit_salad(opts.number);
+    // println!("Fruit salad: {:?}", salad);
 
-    
+    // calculate  how long each language has been around
+    let languages = init_languages();
+    for (language, year) in languages {
+        let age = 2025 - year;
+        println!("{} : {} ", language, age);
+    }
    
 }
