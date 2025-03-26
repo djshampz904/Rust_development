@@ -1,0 +1,1 @@
+/home/shvmpz/Solana_voting_dapp/Rust_development/Rust_functional_Programming/f_programming/target/debug/f_programming: /home/shvmpz/Solana_voting_dapp/Rust_development/Rust_functional_Programming/f_programming/src/main.rs
