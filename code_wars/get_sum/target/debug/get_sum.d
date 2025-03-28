@@ -1,0 +1,1 @@
+/home/shvmpz/Solana_voting_dapp/Rust_development/code_wars/get_sum/target/debug/get_sum: /home/shvmpz/Solana_voting_dapp/Rust_development/code_wars/get_sum/src/lib.rs /home/shvmpz/Solana_voting_dapp/Rust_development/code_wars/get_sum/src/main.rs
