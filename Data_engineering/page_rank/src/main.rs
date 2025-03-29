@@ -1,5 +1,6 @@
 use textwrap::fill;
 
+// did nothing to day sadly
 struct PageRank {
     damping: f64,
     iterations: usize,
