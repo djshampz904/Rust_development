@@ -1,0 +1,1 @@
+/home/shvmpz/Solana_voting_dapp/Rust_development/box_t/mybox/target/debug/mybox: /home/shvmpz/Solana_voting_dapp/Rust_development/box_t/mybox/src/lib.rs /home/shvmpz/Solana_voting_dapp/Rust_development/box_t/mybox/src/main.rs
